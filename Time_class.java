@@ -3,7 +3,7 @@ package practice;
 import java.util.Scanner;
 
 class Time { // Time class
-   int h, m, s; // filed
+   int h, m, s; // field
    int total;
    static int day = 0;
 
